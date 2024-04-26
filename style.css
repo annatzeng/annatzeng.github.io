@@ -14,7 +14,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #e6dabf; /* Change this to your desired container background color */
+    background-color: #E6DABF; /* Change this to your desired container background color */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow to the container */
     border-radius: 10px; /* Adjust the value to control the roundness of the corners */
 }
@@ -30,7 +30,7 @@ p {
 }
 
 a {
-    color: #000000; /* Change this to your desired link color */
+    color: #CF6565; /* Change this to your desired link color */
 }
 
 /* Profile picture style */
