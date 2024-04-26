@@ -6,15 +6,15 @@ html, body {
 
 /* Global styles */
 body {
-    font-family: Avenir Next LT Pro, Cormorant Garamond;
-    background-color: #acacac; /* Change this to your desired background color */
+    font-family: Avenir Next LT Pro;
+    background-color: #5D6751; /* Change this to your desired background color */
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #48503f; /* Change this to your desired container background color */
+    background-color: #e6dabf; /* Change this to your desired container background color */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow to the container */
     border-radius: 10px; /* Adjust the value to control the roundness of the corners */
 }
@@ -26,11 +26,11 @@ h1, h2 {
 
 p {
     margin-bottom: 20px;
-    color: #313131; /* Change this to your desired paragraph color */
+    color: #000000; /* Change this to your desired paragraph color */
 }
 
 a {
-    color: #007bff; /* Change this to your desired link color */
+    color: #000000; /* Change this to your desired link color */
 }
 
 /* Profile picture style */
