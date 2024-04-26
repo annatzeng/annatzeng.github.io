@@ -6,7 +6,7 @@ html, body {
 
 /* Global styles */
 body {
-    font-family: Cormorant Garamond Semi Bold;
+    font-family: Avenir Next LT Pro, Cormorant Garamond;
     background-color: #acacac; /* Change this to your desired background color */
 }
 
@@ -14,7 +14,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #eaeaea; /* Change this to your desired container background color */
+    background-color: #48503f; /* Change this to your desired container background color */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow to the container */
     border-radius: 10px; /* Adjust the value to control the roundness of the corners */
 }
